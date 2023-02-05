@@ -5,7 +5,7 @@ a converter cli tool that sets importmap on HTML files by the file.
 ## install
 
 ```sh
-deno install --allow-read --allow-write --name setimportmap cli.js
+deno install --allow-read --allow-write --name setimportmap https://code4fukui.github.io/setimportmap/cli.js
 ```
 
 ## usage
